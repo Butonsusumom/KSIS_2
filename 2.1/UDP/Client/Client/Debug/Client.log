@@ -1,0 +1,3 @@
+﻿  Client.cpp
+c:\users\ksu\лабы\4 сем\ксис\2 лаба\2.1\udp\client\client\client.cpp(18): warning C4101: 'BufSize': unreferenced local variable
+  Client.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\2 лаба\2.1\UDP\Client\Debug\Client.exe

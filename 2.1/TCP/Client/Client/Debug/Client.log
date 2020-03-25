@@ -1,0 +1,6 @@
+﻿  Client.cpp
+c:\users\ksu\лабы\4 сем\ксис\2 лаба\2.1\tcp\client\client\client.cpp(26): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+c:\users\ksu\лабы\4 сем\ксис\2 лаба\2.1\tcp\client\client\client.cpp(26): warning C4154: deletion of an array expression; conversion to pointer supplied
+c:\users\ksu\лабы\4 сем\ксис\2 лаба\2.1\tcp\client\client\client.cpp(106): warning C4101: 'nsize': unreferenced local variable
+c:\users\ksu\лабы\4 сем\ксис\2 лаба\2.1\tcp\client\client\client.cpp(103): warning C4101: 'thID': unreferenced local variable
+  Client.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\2 лаба\2.1\TCP\Client\Debug\Client.exe
