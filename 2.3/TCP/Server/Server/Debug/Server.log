@@ -1,0 +1,3 @@
+﻿  Server.cpp
+c:\users\ksu\лабы\4 сем\ксис\2 лаба\2.3\tcp\server\server\server.cpp(122): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Server.vcxproj -> C:\Users\KSU\Лабы\4 сем\КСиС\2 лаба\2.3\TCP\Server\Debug\Server.exe
